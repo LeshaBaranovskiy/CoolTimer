@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cool Timer</string>
+    <string name="button_start">Start</string>
+    <string name="content_description_bell">bell</string>
+    <string name="button_resume">Pause</string>
+    <string name="text_resume">Resume</string>
+    <string name="text_stop">Stop/Reset</string>
+    <string name="menu_settings">Settings</string>
+</resources>
